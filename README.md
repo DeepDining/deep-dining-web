@@ -98,13 +98,6 @@ You can now login to admin:
     username: `admin@emcoo.com`
     password: `adminmark`
 
------
-## Demo:
-
-Soon
-
------
-
 
 -----
 ## API Detail:
